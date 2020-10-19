@@ -1,0 +1,14 @@
+{
+  "manifest_version": 1,
+ 
+  "name": "PIE modifier CSS and HTML",
+  "version": "0.1.0",
+  "description": "Rehaul for PIE.iu.edu",
+ 
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["content.js"],
+    "matches": ["https://tcciub.pie.iu.edu/"]
+  }]
+ 
+}

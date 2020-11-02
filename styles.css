@@ -1,13 +1,13 @@
 .page-wrapper{
-    background-color: #000 !important;
+    background-color: #242323 !important;
 }
 
 body{
-    background-color: #000000 !important;
+    background-color: #242323 !important;
     color: #ffffff !important;
 }
 #mainContent {
-    background-color: #000000 !important;
+    background-color: #242323 !important;
 }
 
 .well {
@@ -45,4 +45,12 @@ body{
 .thumbnail {
     background-color: #6e6c69 !important;
     border: 1px solid #6e6c69 !important;
+}
+
+.breadcrumb {
+    background-color:  #6e6c69 !important;
+}
+
+.hidden-xs {
+    color: #fff !important;
 }

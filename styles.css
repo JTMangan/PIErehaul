@@ -1,3 +1,48 @@
-#div{
-    background-color: #000000;
+.page-wrapper{
+    background-color: #000 !important;
+}
+
+body{
+    background-color: #000000 !important;
+    color: #ffffff !important;
+}
+#mainContent {
+    background-color: #000000 !important;
+}
+
+.well {
+    background-color: #38302e !important;
+}
+
+.form-group {
+    background-color: #38302e !important;
+    color: #fff !important;
+}
+
+.form-control {
+    background-color : #6e6c69 !important; 
+    color: #fff !important;
+}
+
+.modal-content {
+    background-color: #38302e !important;
+}
+
+.panel-body {
+    background-color: #38302e !important;
+    color: #fff !important;
+}
+
+.btn-default {
+    color: #fff !important;
+    background-color: #6e6c69 !important;
+}
+
+.list-group-item {
+    background-color: #6e6c69 !important;
+}
+
+.thumbnail {
+    background-color: #6e6c69 !important;
+    border: 1px solid #6e6c69 !important;
 }
